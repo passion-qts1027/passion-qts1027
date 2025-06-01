@@ -5,7 +5,6 @@
 </a>
 </p>
 
-
 <div align="center">
 	<hr>
 <div align="left">
