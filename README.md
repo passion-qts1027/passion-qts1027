@@ -1,4 +1,5 @@
-### Hi, there 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">
+  Hi. Welcome to my github  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center">
 <a href="https://github.com/passion-qts1027">	
 	<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20developer;8%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
@@ -11,7 +12,6 @@
     <p>Experienced Senior Software Engineer with over 8 years of expertise building scalable, high-performance web applications.</p> 
     <p>I specialize in technologies like JavaScript, TypeScript, Node.js, AWS, Serverless, Angular, SQL, and GraphQL, and I’ve had the chance to work on some exciting projects—everything from enterprise-level e-commerce solutions and to secure banking payment systems.</p> 
     <p>I'm passionate about continuous learning and growing professionally within collaborative teams, always looking for opportunities to leverage technology to drive meaningful results.</p> 
-    <p>For me, <b>coding</b> is not just a job, it is a part of my life. I really enjoy coding and spend more than 60% of my time coding.</p> 
     <p>Great development requires more than technical skills.</p> 
     <p>It requires deep concentration, understanding of customer needs, attention to detail, relentless effort, and creative problem-solving skills I think.</p> 
     <p>My friends call me a “coding owl” because of my focus, strategic thinking, and passion for constantly improving.</p> 
